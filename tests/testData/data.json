@@ -1,0 +1,14 @@
+{
+    "username": "TestUser440",
+    "password": ";3Kk[orEm_JA",
+    "invalidUsername": "TestUser44",
+    "invalidPassword": ";3Kk[orEm_J",
+    "firstname": "John",
+    "lastname": "Smith",
+    "dependants": "5",
+    "idToDelete": "4e85f7fb-9020-4d23-b200-59d407babd43",
+    "idToUpdate": "e1508772-e5d3-4416-8401-99a6d007690c",
+    "newFirstname": "Gustavo",
+    "newLastname": "Perez",
+    "newDependants": "2"
+}
